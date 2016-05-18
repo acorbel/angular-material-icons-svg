@@ -2,7 +2,7 @@
 	'use strict';
 
 	angular
-		.module('acorbel.ngMdIconsSvg', ['ngMaterial'])
+		.module('ngMdIconSvg', ['ngMaterial'])
 		.config(['$mdIconProvider', function($mdIconProvider) {
 		$mdIconProvider.icon('access_time', "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBkPSJNMjMuOTkgNEMxMi45NCA0IDQgMTIuOTUgNCAyNHM4Ljk0IDIwIDE5Ljk5IDIwQzM1LjA0IDQ0IDQ0IDM1LjA1IDQ0IDI0UzM1LjA0IDQgMjMuOTkgNHpNMjQgNDBjLTguODQgMC0xNi03LjE2LTE2LTE2UzE1LjE2IDggMjQgOHMxNiA3LjE2IDE2IDE2LTcuMTYgMTYtMTYgMTZ6bTEtMjZoLTN2MTJsMTAuNDkgNi4zTDM0IDI5Ljg0bC05LTUuMzR6Ii8+PC9zdmc+");
 
