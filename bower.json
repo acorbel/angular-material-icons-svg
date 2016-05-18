@@ -6,7 +6,7 @@
     "dist/config.min.js"
   ],
   "dependencies": {
-    "angular": "~1.2.2",
+    "angular": ">1.3.x"
     "angular-material": "~1.0.8"
   },
   "keywords": [
