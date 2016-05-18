@@ -1,6 +1,7 @@
 {
   "name": "angular-material-icons-svg",
   "description": "Register material icons directly in config",
+  "version": "1.0.0",
   "main": [
     "dist/config.min.js"
   ],
