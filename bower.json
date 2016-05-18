@@ -1,0 +1,19 @@
+{
+  "name": "angular-material-icons-svg",
+  "description": "Register material icons directly in config",
+  "main": [
+    "dist/config.min.js"
+  ],
+  "dependencies": {
+    "angular": "~1.2.2",
+    "angular-material": "~1.0.8"
+  },
+  "keywords": [
+    "angular",
+    "material"
+  ],
+  "authors": [
+    "Alexandre Corbel"
+  ],
+  "license": "MIT"
+}
