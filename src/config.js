@@ -122,6 +122,8 @@
 		
 		$mdIconProvider.icon('view_list', "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBkPSJNOCAyOGg4di04SDh2OHptMCAxMGg4di04SDh2OHptMC0yMGg4di04SDh2OHptMTAgMTBoMjR2LThIMTh2OHptMCAxMGgyNHYtOEgxOHY4em0wLTI4djhoMjR2LThIMTh6Ii8+PC9zdmc+");
 		
+		$mdIconProvider.icon('warning', "data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSI0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgICA8cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+DQogICAgPHBhdGggZD0iTTEgMjFoMjJMMTIgMiAxIDIxem0xMi0zaC0ydi0yaDJ2MnptMC00aC0ydi00aDJ2NHoiLz4NCjwvc3ZnPg==");
+		
 
 
 		
